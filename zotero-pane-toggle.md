@@ -2,6 +2,8 @@
 
 Based on discussion here: <https://github.com/windingwind/zotero-actions-tags/discussions/169>
 
+![Demo pane toggle in Zotero](https://github.com/user-attachments/assets/c7dab2cd-33fe-4a68-b8b6-91b5833745bf)
+
 Install `Zotero Actions & Tags` extension from <https://github.com/windingwind/zotero-actions-tags>
 
 In settings, add new actions of type `Script` with the following code snippets:
